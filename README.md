@@ -1,1 +1,2 @@
-# Online-news-popularity_Spark
+# Predicting Online News Popularity (Spark)
+
