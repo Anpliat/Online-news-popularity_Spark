@@ -1,6 +1,6 @@
 # Predicting Online News Popularity (Spark)
 
-### Purpose 
+### Scope 
 Predict the number of shares of an online article, based on a number of attributes. The prediction was done using Random Forrest Regressor.
 
 ### Dataset attributes
